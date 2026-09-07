@@ -9,3 +9,8 @@ python3 -m http.server 8000
 ```
 
 Visit http://localhost:8000. To publish, upload `index.html`, `styles.css`, and `spot.svg` to any static web host.
+
+Project details:
+
+- X: [@spotadogdotcom](https://x.com/spotadogdotcom)
+- Developer wallet (Solana): `5wYBCK67zCp95fszwWCBK1aha24pXQHzH6MPmTGgLb68`
