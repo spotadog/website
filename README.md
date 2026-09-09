@@ -12,6 +12,7 @@ Visit http://localhost:8000. To publish, upload `index.html`, `styles.css`, and 
 
 Project details:
 
+- Instagram: [@spotadogdotcom](https://www.instagram.com/spotadogdotcom/)
 - X: [@spotadogdotcom](https://x.com/spotadogdotcom)
 
 Developer wallets:
